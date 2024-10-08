@@ -46,6 +46,7 @@
 - **Forecasting Model**: Built a Long Short Term Memory (LSTM) model to predict Apple Inc.'s future stock closing prices.
 - **Tools Used**: Python, yfinance, pandas, seaborn, matplotlib.
 - **Outcome**: Provided insights into stock performance and developed a predictive model to support data-driven investment decisions.
+- [GitHub Repository](https://github.com/AishwaryaNachiya/stockprediction)
 
 
 ### Reproducing MA-BERT: Learning Representation by Incorporating Multi-Attribute Knowledge in Transformers
