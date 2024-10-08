@@ -36,10 +36,17 @@
 
 ## Projects
 
-### **Stock Market Prediction**
-- Developed a model to predict stock prices using historical data with machine learning techniques.
-- Utilized libraries such as Pandas, NumPy, TensorFlow, Matplotlib, and Scikit-Learn.
-- Data sourced from Google Finance.
+### Stock Market Analysis and Forecasting Project
+
+- **Data Source**: Utilized historical stock data from Yahoo Finance for major technology stocks (Apple, Amazon, Google, and Microsoft).
+- **Analysis Performed**:
+  - Examined stock price changes over time and calculated daily returns.
+  - Visualized moving averages to identify long-term trends.
+  - Assessed risk with value-at-risk (VaR) analysis.
+- **Forecasting Model**: Built a Long Short Term Memory (LSTM) model to predict Apple Inc.'s future stock closing prices.
+- **Tools Used**: Python, yfinance, pandas, seaborn, matplotlib.
+- **Outcome**: Provided insights into stock performance and developed a predictive model to support data-driven investment decisions.
+
 
 ### Reproducing MA-BERT: Learning Representation by Incorporating Multi-Attribute Knowledge in Transformers
 - Worked on replicating and potentially extending the MA-BERT model, a variant of BERT used in NLP.
