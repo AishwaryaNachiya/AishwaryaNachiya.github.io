@@ -16,7 +16,7 @@
 
 ## Work Experience
 
-### Internship Description
+### Data Science Internship
 
 **Position:** Data Analysis Intern  
 **Company:** GlobalMedics.AI  
