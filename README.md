@@ -33,6 +33,7 @@ During my internship at GlobalMedics.AI, I had the opportunity to work on innova
 - **LangChain Integration:** Completed a course on "LangChain Chat with Your Data," which equipped me with essential skills in text preprocessing, tokenization, and normalization. I applied these techniques to enhance the performance of our RAG model, ensuring the generated reports were both accurate and relevant.
   
 - **RAG Framework Implementation:** Studied and applied concepts from the "Retrieval Augmented Generation (RAG) Using Azure and LangChain Tutorial," successfully integrating external data sources into our RAG framework. This integration improved the model's ability to generate personalized and contextually relevant pre-consultation reports.
+-  [GitHub Repository](https://github.com/AishwaryaNachiya/Pre-Consultation-Reports/tree/main)
 
 Throughout my internship, I collaborated with a multidisciplinary team, contributing to a project that significantly improved healthcare documentation workflows. This experience not only deepened my technical skills but also reinforced my commitment to leveraging data science in real-world applications to enhance operational efficiency and patient care.
 
