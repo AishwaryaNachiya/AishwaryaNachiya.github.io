@@ -41,9 +41,11 @@
 - Utilized libraries such as Pandas, NumPy, TensorFlow, Matplotlib, and Scikit-Learn.
 - Data sourced from Google Finance.
 
-### **Reproducing MA-BERT: Learning Representation by Incorporating Multi-Attribute Knowledge in Transformers**
-- Worked on replicating and potentially extending the MA-BERT model, a variant of BERT (Bidirectional Encoder Representations from Transformers) used in NLP.
-- Aimed to enrich the model's understanding and representation of text by incorporating multi-attribute knowledge.
+### Reproducing MA-BERT: Learning Representation by Incorporating Multi-Attribute Knowledge in Transformers
+- Worked on replicating and potentially extending the MA-BERT model, a variant of BERT used in NLP.
+- Aimed to enrich the model’s understanding and representation of text by incorporating multi-attribute knowledge.
+- [GitHub Repository](https://github.com/AishwaryaNachiya/Final-Report-COMP8240)
+
 
 ---
 
